@@ -11,10 +11,10 @@ vim.o.colorcolumn = "80"
 vim.o.splitbelow = true
 vim.o.splitright = true
 vim.o.numberwidth = 6
-vim.opt.tabstop = 4
-vim.opt.softtabstop = 4
-vim.opt.shiftwidth = 4
-vim.opt.expandtab = true
+vim.opt.tabstop = 8
+vim.opt.softtabstop = 8
+vim.opt.shiftwidth = 8
+vim.opt.expandtab = false
 vim.opt.scrolloff = 14
 vim.go.encoding = "utf-8"
 
